@@ -1,4 +1,4 @@
-ā# Student Feedback System
+## Student Feedback System
 
 A full-stack web application for collecting **anonymous student feedback** on courses and faculty, with secure role-based access, duplicate-submission prevention, and feedback analytics.
 
@@ -854,14 +854,6 @@ The project demonstrates practical implementation of:
 - Frontend-backend integration
 - Data visualization
 - Responsive UI/UX
-
----
-
-# 👨💻 Author
-
-**Harshavardhan Varma**
-
-GitHub: [@harsha-1706](https://github.com/harsha-1706)
 
 ---
 

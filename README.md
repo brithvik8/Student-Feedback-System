@@ -769,7 +769,7 @@ Screenshots can be added here to demonstrate the main application interfaces.
 
 ### Feedback Form
 
-<img width="1600" height="720" alt="6" src="https://github.com/user-attachments/assets/deafc65a-3fe9-4a87-a86a-6ad999f538e6" />
+<img width="1600" height="723" alt="WhatsApp Image 2026-09-27 at 13 34 14" src="https://github.com/user-attachments/assets/cd7bf684-7106-4b1f-8a1f-0d6839f7b1ff" />
 
 ---
 

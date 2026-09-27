@@ -1,4 +1,4 @@
-## Student Feedback System
+# Student Feedback System
 
 A full-stack web application for collecting **anonymous student feedback** on courses and faculty, with secure role-based access, duplicate-submission prevention, and feedback analytics.
 
@@ -749,7 +749,7 @@ Screenshots can be added here to demonstrate the main application interfaces.
 
 ### Login
 
-_Add login screenshot here._
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/7555416c-abed-44d9-ad8f-402f10e19eba" />
 
 ### Admin Dashboard
 
@@ -860,4 +860,3 @@ The project demonstrates practical implementation of:
 # 📄 License
 
 This project is intended primarily for academic and educational purposes.
-
